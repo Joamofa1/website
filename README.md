@@ -117,12 +117,7 @@ _choose one_ of the following submodule-cloning techniques:
   ```
 
   OR
-  
-- If you've already cloned the repo without its submodule, 
-  then run this command from the repo root:<br>
-  ```bash
-  $ git submodule update --init --recursive
-  ```
+
 
 > **Note:** At any time during development 
 > you can use the `git submodule` command to refresh submodules:
